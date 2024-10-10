@@ -1,4 +1,4 @@
-# 20240916-ways_to_score-gist
+# 20241009-grocery_list-gist
 
 **Gist file**: [https://gist.github.com/athursto/4f2e4046bc2e027ddce1f8e4f2b91937](https://gist.github.com/athursto/4f2e4046bc2e027ddce1f8e4f2b91937)
 
