@@ -2,9 +2,8 @@
 
 **Gist file**: [https://gist.github.com/athursto/0aa74dcfb63a484c48537222762919fb](https://gist.github.com/athursto/0aa74dcfb63a484c48537222762919fb)
 
-**Description**: Cassidy's interview question of the week: a function to find trailing zeros of a factorial
+**Description**: Cassidy's interview question of the week: a function to turn a string into its NATO alphabet representation
 
-## factorial_cookie.py
 
 ```Python
 def nato_alphabet(string):
