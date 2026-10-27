@@ -18,6 +18,7 @@ def halloweenSwap(costumes):
             location_dict[j], location_dict[holder] = location_dict[holder], location_dict[j]
             swaps +=1
             # print(f"location_dict is now {location_dict}, total swaps {swaps}")
+    return swaps
 
 
 
